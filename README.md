@@ -46,10 +46,10 @@ The goal of this project is to analyze flight data using **Excel, SQL, and Table
 ## Dashboards & Visuals
 
 The Tableau dashboard includes:
-- 📌 Cancellation Analysis
-- 📌 Delay Heatmaps
-- 📌 On-time Flights Summary
-- 📌 Weekday vs Weekend Flight Trends
+- Cancellation Analysis
+- Delay Heatmaps
+- On-time Flights Summary
+- Weekday vs Weekend Flight Trends
 
 ## Key Insights from Dashboard
 
