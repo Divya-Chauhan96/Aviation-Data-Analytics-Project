@@ -77,4 +77,39 @@ The Tableau dashboard includes:
    - **Wednesday** and **Tuesday** were top-performing days with ~463K on-time flights.  
    - **Saturday** had the least with **397K**.
 
+---
+
+## Dataset Summary
+
+- **Flights:** 5.8M  
+- **On-Time Flights:** 3.1M  
+- **Cancellations:** 75.16K  
+- **Diversions:** 15.19K  
+- **Delay Records:** 2.7M  
+- Size: 1.2GB+ (Only sample uploaded)
+  
+---
+
+## Note
+
+Due to GitHub’s 100MB file limit:
+- Full dataset is not uploaded  
+- Sample datasets provided
+  
+---
+
+## About Me
+
+**Divya Chauhan**  
+Aspiring Data Analyst | Excel, SQL, Tableau ,Power Bi , Python ,Data Analysis 
+
+---
+
+## Project Status
+
+Completed and published  
+Dashboards available  
+Suitable for portfolio and interview discussion
+
+---
 
